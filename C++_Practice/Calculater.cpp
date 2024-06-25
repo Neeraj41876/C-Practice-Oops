@@ -2,6 +2,7 @@
 using namespace std;
 class calculater
 {
+    
 public:
     int a, b, oper;
     void getdata(int a, int b, int oper);
